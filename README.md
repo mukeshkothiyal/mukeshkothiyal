@@ -1,4 +1,3 @@
-<!--
 ### Hi there 👋
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
@@ -30,14 +29,12 @@
 - 🔧 &nbsp;
   ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-444444?style=flat&logo=IntelliJ-IDEA)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide)
-  ![PowerShell](https://img.shields.io/badge/-PowerShell-333333?style=flat&logo=PowerShell&logoColor=5391FE)
   ![Bamboo](https://img.shields.io/badge/-Bamboo-444444?style=flat&logo=Bamboo)
   ![Kibana](https://img.shields.io/badge/-Kibana-444444?style=flat&logo=kibana)
   ![Tomcat](https://img.shields.io/badge/-Tomcat-444444?style=flat&logo=Apache-tomcat)
   
   
 </br>
--->
 <!--
 <a href="https://github.com/HabeebCycle">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mukeshkothiyal&theme=buefy&show_icons=true" />
