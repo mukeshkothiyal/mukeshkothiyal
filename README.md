@@ -20,6 +20,10 @@
 - 🛢 &nbsp;
   ![OracleDB](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=Oracle)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=PostgreSQL&logoColor=336791)
+- 📦 &nbsp;
+  ![Wildfly](https://img.shields.io/badge/jboss-Wildfly-444444?style=flat)
+  ![Weblogic](https://img.shields.io/badge/-Weblogic-333333?style=flat&logo=oracle)
+  ![Tomcat](https://img.shields.io/badge/-Tomcat-444444?style=flat&logo=Apache-tomcat)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
@@ -31,8 +35,6 @@
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide)
   ![Bamboo](https://img.shields.io/badge/-Bamboo-444444?style=flat&logo=Bamboo)
   ![Kibana](https://img.shields.io/badge/-Kibana-444444?style=flat&logo=kibana)
-  ![Tomcat](https://img.shields.io/badge/-Tomcat-444444?style=flat&logo=Apache-tomcat)
-  
   
 </br>
 <!--
