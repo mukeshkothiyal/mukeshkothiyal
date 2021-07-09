@@ -13,6 +13,11 @@
 
 - 💻 &nbsp;
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java)
+  ![Spring](https://img.shields.io/badge/-spring-333333?style=flat&logo=spring)
+  ![Springboot](https://img.shields.io/badge/-springboot-333333?style=flat&logo=springboot)
+  ![Kafka](https://img.shields.io/badge/-Apache%20Kafka-333333?style=flat&logo=Apache%20Kafka)
+  
+  
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -35,6 +40,12 @@
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide)
   ![Bamboo](https://img.shields.io/badge/-Bamboo-444444?style=flat&logo=Bamboo)
   ![Kibana](https://img.shields.io/badge/-Kibana-444444?style=flat&logo=kibana)
+  ![Grafana](https://img.shields.io/badge/-Grafana-333333?style=flat&logo=grafana)
+<br/>    <!--extra 'em' space here after line-break-->
+  ![Prometheus](https://img.shields.io/badge/-Prometheus-333333?style=flat&logo=prometheus)
+  ![Maven](https://img.shields.io/badge/-Apache%20Maven-333333?style=flat&logo=Apache%20Maven)
+  ![Jmeter](https://img.shields.io/badge/-Apache%20JMeter-333333?style=flat&logo=Apache%20JMeter)
+  ![Filezilla](https://img.shields.io/badge/-FileZilla-333333?style=flat&logo=FileZilla)
   
 </br>
 <!--
